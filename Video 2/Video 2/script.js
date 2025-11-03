@@ -1,1 +1,0 @@
-alert("Welcome! Aur btao sab thik?")
